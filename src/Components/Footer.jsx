@@ -42,6 +42,8 @@ const Footer = () => {
         <p>
           Copyright © 2023 <span>EXOCODE TECHNOLOGIES</span> | All rights
           reserved
+          </br>
+        <p>Made By Brahmprakash</p>
         </p>
       </div>
     </div>
