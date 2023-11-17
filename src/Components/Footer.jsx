@@ -41,10 +41,9 @@ const Footer = () => {
         <p>Terms & Condition | Privacy Policy </p>       
         <p>
           Copyright © 2023 <span>EXOCODE TECHNOLOGIES</span> | All rights
-          reserved
-          <br>
-           Made By <span>Brahmprakash Gautam</span>            
-        </p>         
+          reserved        
+          Made By <span>Brahmprakash Gautam</span>            
+        </p>      
         
       </div>
     </div>
