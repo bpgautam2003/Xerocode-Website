@@ -39,12 +39,13 @@ const Footer = () => {
 
       <div className="footer-2">
         <p>Terms & Condition | Privacy Policy </p>
+        <div>
         <p>
           Copyright © 2023 <span>EXOCODE TECHNOLOGIES</span> | All rights
           reserved
-          </br>
+        </p>         
         <p>Made By Brahmprakash</p>
-        </p>
+          </div>
       </div>
     </div>
   );
