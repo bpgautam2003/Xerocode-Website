@@ -45,8 +45,6 @@ const Footer = () => {
         </p>      
         
       </div>
-      <div className="madeby">
-      <p>Made By <span>Brahmprakash Gautam</span></p> </div>
     </div>
   );
 };
